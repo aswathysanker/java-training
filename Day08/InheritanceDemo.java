@@ -1,4 +1,4 @@
-package Day8;
+package Day08;
 class Animal {
     void sound() {
         System.out.println("Animal makes sound");

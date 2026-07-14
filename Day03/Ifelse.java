@@ -1,4 +1,4 @@
-package Day3;
+package Day03;
 import java.util.Scanner;
 public class Ifelse {
      public static void main(String[] args) {
